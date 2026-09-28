@@ -26,9 +26,12 @@ programming and building websites.
 - Email: 121moithreeroy@gmail.com
 - FB Account: https://www.facebook.com/moithree.roy.3
 
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moithre&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moithre&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Moithre&theme=tokyonight)
 
