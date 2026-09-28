@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Moithree's GitHub banner" />
+</p>
 # Hi, I'm Moithree Roy 👋
 
 ### Aspiring Software Developer | CST Student
